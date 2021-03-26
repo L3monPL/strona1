@@ -1,0 +1,37 @@
+https://getcssscan.com/css-box-shadow-examples
+https://websitesetup.org/bootstrap-tutorial-for-beginners/
+https://bootsnipp.com/snippets/l08xq
+https://codepen.io/pen/
+https://mdbootstrap.com/docs/standard/extended/gallery/
+https://bootsnipp.com/snippets/aMGnk
+
+
+https://www.grecotel.com/
+
+NAPIS KTÓRY SIĘ PRZESÓWA PO STRONIE (SZEROKOŚĆ)
+<marquee behavior="scroll" direction="left" style="font-weight:bold;">
+				<h1>Zapoznaj się z naszą ofertą wypoczynkową!</h1>			
+		</marquee>
+		
+CIEŃ DO TESKTU
+text-shadow: 0.1em 0.1em 0.2em black
+
+MAPKI GOOGLE
+https://sylwiastein.pl/wordpress/jak-dodac-mape-google-na-stronie-za-darmo/#&gid=1&pid=5
+https://www.google.com/intl/pl_PL/maps/about/mymaps/
+
+DIV DLA 
+<div class="box-3">
+	<iframe style="margin-top: 0px; width: 100%; min-height: 250px; height: 100%; 
+	overflow: hidden;" src="https://www.youtube.com/embed/Gv7-btMh-wU?rel=0&amp;controls=0&amp;showinfo=0" 
+	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" id="iFrameResizer0" scrolling="no"></iframe>
+</div>
+
+ALERT DO ZAMKNIECIA
+<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  <strong>Uwaga!</strong> Jestem komunikatem, który możesz zamknąć.
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+

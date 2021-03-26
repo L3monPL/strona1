@@ -1,0 +1,54 @@
+.hide {
+	display: none;
+	left: 3px;
+	position: relative;
+  }
+  
+  .myDIV:hover + .hide {
+	display: block;
+	color: red;
+  }
+  .myDIV{
+	width: 144px;
+	height: 144px;
+	left:-2px;
+	top:-2px;
+	position: relative;
+	border: 2px;
+	border-radius: 100%;
+	z-index: 0;
+  }
+  .list{
+	  width: 85%;
+	  height: 30%;
+	  margin: auto;
+	  background-color: #b3ecff;
+  }
+  
+  .list ul{
+	  margin: 0;
+	  padding: 0;
+	  list-style: none;
+	  text-align: center;
+	
+  }
+  
+  .list li{
+	   background-color: #b3ecff;
+	  display: inline-block;
+	  padding: 1% 0;
+	  vertical-align: middle;
+	  width: 20%;
+  }
+  #circle:hover {
+	  background: #ddd;
+	  color: black;
+	}
+  #circle {
+	  width: 140px;
+	  height: 140px;
+	  border: 3px solid #00ace6;
+	  border-radius: 100%;
+	  margin: 40px auto 0;
+	  background-color: #b3ecff;
+  }
